@@ -1,0 +1,2 @@
+module ASD7 {
+}
